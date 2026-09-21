@@ -30,8 +30,8 @@ A from-scratch reproduction of Hinton, Vinyals & Dean's *"Distilling the Knowled
 | Student, T=16       | 1196.4     |
 | Student, from scratch | 1526.1   |
 
-![Perplexity vs temperature](temperature_sweep.png)
-![Validation loss trajectories](training_curves.png)
+![Perplexity vs temperature](Perplexity_vs_temperature.png)
+![Validation loss trajectories](Validation_loss_trajectories.png)
 
 ## Findings
 
